@@ -5,3 +5,13 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	staging area is the tracked files will commit, working directory is all the files in the directory, and the repository contains a snapshots of the staging areas you have created
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	i can make a several logical updated which will stay in my working directory and
+	add to staging only the files which made the one logical stage and commit it,
+	then do it again with the other, etc..
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	if i want to examine several features or several ways of bug fixing on the same bug it can help a lot not to getting lost
