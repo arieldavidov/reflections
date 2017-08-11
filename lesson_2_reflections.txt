@@ -23,3 +23,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	the result is creating one revision with all the changes which was made on the 2 branches.
 	the way we represent it in the diagram is for showing how the commits are merged together
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	pros are if there is any problem is see the immediately and the cons are you don't know what you will face on
